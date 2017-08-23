@@ -1,0 +1,29 @@
+body {
+    height: 100%;
+}
+
+#pageLinks {
+    width: 100%;
+}
+
+#brain {
+    height: 400px;
+}
+
+#enter {
+    text-align: center;
+}
+
+.navbar {
+    height: 75px;
+    background-color: lightgrey;
+    width: inherit;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.social-pics {
+    width: 25px;
+    text-align: right;
+}
